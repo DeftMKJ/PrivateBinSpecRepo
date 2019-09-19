@@ -1,0 +1,30 @@
+{
+  "name": "cocoapods-bin-issue-11-import-PodB",
+  "version": "0.1.0",
+  "summary": "A short description of cocoapods-bin-issue-11-import-PodB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tripleCC/cocoapods-bin-issue-11-import-PodB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tripleCC": "triplec.linux@gmail.com"
+  },
+  "source": {
+    "http": "https://github.com/for-example-test/cocoapods-bin-issue-11-import-PodB/releases/download/0.1.0/cocoapods-bin-issue-11-import-PodB.framework.zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "cocoapods-bin-issue-11-import-PodB.framework/Headers/*",
+    "cocoapods-bin-issue-11-import-PodB.framework/Versions/A/Headers/*"
+  ],
+  "vendored_frameworks": "cocoapods-bin-issue-11-import-PodB.framework",
+  "public_header_files": [
+    "cocoapods-bin-issue-11-import-PodB.framework/Headers/*",
+    "cocoapods-bin-issue-11-import-PodB.framework/Versions/A/Headers/*"
+  ]
+}
