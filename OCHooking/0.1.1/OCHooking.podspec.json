@@ -12,7 +12,7 @@
     "tripleCC": "triplec.linux@gmail.com"
   },
   "source": {
-    "http": "http://localhost:8080/frameworks/OCHooking/0.1.1/zip",
+    "http": "http://localhost:8081/frameworks/OCHooking/0.1.1/zip",
     "type": "zip"
   },
   "platforms": {
